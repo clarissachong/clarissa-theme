@@ -2,8 +2,12 @@
 
 All notable changes to the "clarissa-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 2023 - 12 - 22
 
-## [Unreleased]
+### Added
 
-- Initial release
+-support for:
+    * JavaScript
+    * Python
+    * Ruby
+    * JSON
