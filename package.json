@@ -2,11 +2,11 @@
   "name": "clarissa-theme",
   "displayName": "♥ clarissa theme ♥",
   "description": "My personal theme!",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "clarissa chong",
   "repository": {
     "type": "git",
-    "url" : "https://github.com/clarissachong/clarissa-theme"
+    "url": "https://github.com/clarissachong/clarissa-theme"
   },
   "engines": {
     "vscode": "^1.85.0"
